@@ -5,17 +5,23 @@
 
 **Context**
 
-In today’s digital world, technology has brought a series of positive impacts on diplomacy and introduced new topics on diplomatic agendas. Information moves faster, interaction benefits from new ways of working and new communication channels, data allow stronger decision-making and virtual negotiations have become part of the diplomatic toolbox, especially in emergencies.
-As social and economic life is increasingly digitalized, Digital Diplomacy tools and capabilities must be strategically enhanced, prioritized, and matured to help international subjects, especially the States, pursue foreign policy goals, foster multilateralism, and achieve Sustainable Development Goals (SDGs). In this context, Digital Public Goods (DPG) and Digital Public Infrastructure (DPI) are vital to harnessing the power of data and digital technology.
-How can UNICC facilitate Digital Diplomacy using digital tools and techniques for diplomatic activity (e.g., diplomatic conferences, negotiations, foreign missions, informed decision-making) while maturing its capabilities to support increased virtual and hybrid engagements? How can digital technology contribute to the multilateral agenda and build stronger resilience to continue international and regional communication and cooperation uninterrupted? 
-As a UN system organization, UNICC has the advantage of providing infrastructures, such as the UN private cloud, compliant with UN jurisdiction granting clients’ data all the UN immunities and privileges. 
+As social and economic life becomes increasingly digitalized, it is critical that Digital Diplomacy tools and capabilities are 
+strategically enhanced, prioritized, and matured. This will assist both international organizations and Member States in 
+pursuing their policy goals, fostering multilateralism, and collaborating effectively to achieve the 2030 Development Agenda, 
+including the Sustainable Development Goals (SDGs).
 
-**Challenges**
+**Prompt**
  
-1. Obstacles presented by state Security and censorship, media regulations, trust and credibility in digital environments, organizational culture,  personnel and linguistic challenges.
-2.  Although technology created opportunities for greater inclusion during recent emergencies, allowing more diverse actors to participate in international engagements, internet access is still uneven worldwide.
-3.  Existing services and platforms are not uniform across different UN agencies or Member States and have technical or process gaps that must be resolved to fit the modern hybrid world.
-4.  Risks and interdependencies must be actively managed, also by leveraging UNICC’s unique assets.
+Ideate a digital solution that can facilitate Digital Diplomacy. For example, technology can support diplomatic conferences, negotiations, decision-making, consular services or collaboration between multiple stakeholders inside and outside the diplomatic community, as well as by supporting both virtual and hybrid engagements. Consider mobile technologies, AI-powered tools, technical interfaces, process automation or any other digital technology that can fit this purpose. Reflect on how digital technology can advance the multilateral agenda and bolster resilience, ensuring seamless international and regional communication and cooperation. 
+Since UNICC is one of the main contributors to the digitalization of the UN system, think about how to incorporate the Organization’s assets and work into your solution.
+
+**Constraints**
+
+- Trust and credibility in digital environments.
+- Linguistic challenges.
+- Uneven access to the internet worldwide.
+- A variety of platforms across different UN agencies or Member States.
+- Diplomatic rules and procedures.
 
 <br><br>
 
@@ -23,23 +29,22 @@ As a UN system organization, UNICC has the advantage of providing infrastructure
 
 **Context**
 
-Digital technologies are changing the way of accessing education, paving the way for new learning methods and speeding up the internationalization of training systems, thus creating new opportunities and challenges for skills development and recognition at a global level. 
-Also, education is increasingly becoming a lifelong learning process allowing modern students and workers to stay competitive in the globalized labour market through continuous training and up-to-date qualifications.
-In this context, digital technology can be deployed in support of decentralized educational systems. Digital tools such as open data sources, smart contracts or Blockchain technology are particularly important as governments have been forced to move education and training online, and they will also facilitate the verification of credentials of both learners and issuing institutions for cross-border studies and mobility.
-A digital credential is an “electronic representation of the different types of learning acquired by an individual”. Digital credentials can make education processes more efficient and paperless, increase quality assurance through instant verification, and boost interoperability across borders.
+Technology can help transform education and create new opportunities for students, educators and institutions. For example,
+blockchain technologies and digital contracts can improve the accessibility and accountability of learning certificates by
+enabling “digital credentials”. This can make education processes more efficient and paperless, increase quality assurance
+through instant verification, make learning certificates more accessible and portable, and boost interoperability across
+borders.
 
-How can the UNICC facilitate digital credentialing while ensuring the trustworthiness of data, interoperability of systems, and compliance with learning standards? 
+**Prompt**
 
-As a UN system organization, UNICC has the advantage of providing infrastructures, such as the UN private cloud, compliant with UN jurisdiction granting clients’ data all the UN immunities and privileges.  
-UNESCO’s humanistic vision for the use of digital technology in education should be treated as a guiding principle for the development of a digital solution in this field. 
+Ideate a solution for digital credentials which ensures the trustworthiness of data, interoperability of systems, and
+compliance with learning standards.
+Since UNICC has the advantage of providing digital infrastructure, such as private cloud services through UNICC Cloud,
+think about how to incorporate UNICC’s assets and work into your solution.
 
 **Challenge**
 
-1. Building legitimate pathways to issuing, storing and verifying digital certificates.
-2. Storing digital credentials and transcripts, student identity and record management, and intellectual data management.
-3. Leveraging smart contracts to easily prove that students achieved a particular level of competence in their chosen learning material. 
-4. Supporting underprivileged individuals to be able to access high-quality educational content without the burden of proof, thereby giving them better access to education and employment.
-
-
-The United Nations has adopted the Sustainable Development Goals (SDGs) to achieve significant progress on global economic, social, and environmental challenges by 2030.
-SD Goal 4 calls for urgent action to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
+- Legitimate issuing,storage and verification process for digital certificates.
+- Identity and record management.
+- Secure data management.
+- Uneven access to high-quality education worldwide

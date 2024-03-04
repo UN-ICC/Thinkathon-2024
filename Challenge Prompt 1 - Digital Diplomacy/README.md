@@ -1,4 +1,4 @@
-# Challenge Prompt 1 - Digital Diplomacy
+# Challenge 1 - Digital Diplomacy
 
 **Resources**
 
